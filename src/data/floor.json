@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "title": "文艺",
+        "list": [
+            {
+                "id": 1,
+                "name": "史通",
+                "imgUrl": "/images/books/floor/weiyi/1.png",
+                "price": 65
+            },
+            {
+                "id": 2,
+                "name": "行者无疆",
+                "imgUrl": "/images/books/floor/weiyi/2.png",
+                "price": 78
+            },
+            {
+                "id": 3,
+                "name": "在人间",
+                "imgUrl": "/images/books/floor/weiyi/3.png",
+                "price": 45
+            },
+            {
+                "id": 4,
+                "name": "飞鸟集",
+                "imgUrl": "/images/books/floor/weiyi/4.png",
+                "price": 65
+            },
+            {
+                "id": 5,
+                "name": "世说新语",
+                "imgUrl": "/images/books/floor/weiyi/5.png",
+                "price": 75
+            },
+            {
+                "id": 6,
+                "name": "简爱",
+                "imgUrl": "/images/books/floor/weiyi/6.png",
+                "price": 28
+            },
+            {
+                "id": 7,
+                "name": "人间失格",
+                "imgUrl": "/images/books/floor/weiyi/7.png",
+                "price": 48
+            },
+            {
+                "id": 8,
+                "name": "史记故事",
+                "imgUrl": "/images/books/floor/weiyi/8.png",
+                "price": 78
+            },
+            {
+                "id": 9,
+                "name": "呐喊",
+                "imgUrl": "/images/books/floor/weiyi/9.png",
+                "price": 87
+            },
+            {
+                "id": 10,
+                "name": "罗生门",
+                "imgUrl": "/images/books/floor/weiyi/10.png",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "科技",
+        "list": [
+            {
+                "id": 1,
+                "name": "时间简史",
+                "imgUrl": "/images/books/floor/keji/1.png",
+                "price": 66
+            },
+            {
+                "id": 2,
+                "name": "锂空气电池",
+                "imgUrl": "/images/books/floor/keji/2.png",
+                "price": 88
+            },
+            {
+                "id": 3,
+                "name": "UI设计与理论",
+                "imgUrl": "/images/books/floor/keji/3.png",
+                "price": 54
+            },
+            {
+                "id": 4,
+                "name": "智慧集体",
+                "imgUrl": "/images/books/floor/keji/4.png",
+                "price": 48
+            },
+            {
+                "id": 5,
+                "name": "智能简史",
+                "imgUrl": "/images/books/floor/keji/5.png",
+                "price": 75
+            },
+            {
+                "id": 6,
+                "name": "生物工程趣谈",
+                "imgUrl": "/images/books/floor/keji/6.png",
+                "price": 28
+            },
+            {
+                "id": 7,
+                "name": "微波技术基础",
+                "imgUrl": "/images/books/floor/keji/7.png",
+                "price": 48
+            },
+            {
+                "id": 8,
+                "name": "信息时代与产业",
+                "imgUrl": "/images/books/floor/keji/8.png",
+                "price": 33
+            },
+            {
+                "id": 9,
+                "name": "科技创新300年",
+                "imgUrl": "/images/books/floor/keji/9.png",
+                "price": 57
+            },
+            {
+                "id": 10,
+                "name": "计算机科学概论",
+                "imgUrl": "/images/books/floor/keji/10.png",
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "励志",
+        "list": [
+            {
+                "id": 1,
+                "name": "做个强大的自己",
+                "imgUrl": "/images/books/floor/lizhi/1.png",
+                "price": 67
+            },
+            {
+                "id": 2,
+                "name": "靠别人不如靠自己",
+                "imgUrl": "/images/books/floor/lizhi/2.png",
+                "price": 89
+            },
+            {
+                "id": 3,
+                "name": "没有想不到只有做不到",
+                "imgUrl": "/images/books/floor/lizhi/3.png",
+                "price": 58
+            },
+            {
+                "id": 4,
+                "name": "不抱怨的世界",
+                "imgUrl": "/images/books/floor/lizhi/4.png",
+                "price": 48
+            },
+            {
+                "id": 5,
+                "name": "读书是一辈子的事",
+                "imgUrl": "/images/books/floor/lizhi/5.png",
+                "price": 78
+            },
+            {
+                "id": 6,
+                "name": "将来的你",
+                "imgUrl": "/images/books/floor/lizhi/6.png",
+                "price": 29
+            },
+            {
+                "id": 7,
+                "name": "舍与得",
+                "imgUrl": "/images/books/floor/lizhi/7.png",
+                "price": 48
+            },
+            {
+                "id": 8,
+                "name": "追寻青春的姿态",
+                "imgUrl": "/images/books/floor/lizhi/8.png",
+                "price": 33
+            },
+            {
+                "id": 9,
+                "name": "坚持梦想",
+                "imgUrl": "/images/books/floor/lizhi/9.png",
+                "price": 58
+            },
+            {
+                "id": 10,
+                "name": "狼道",
+                "imgUrl": "/images/books/floor/lizhi/10.png",
+                "price": 88
+            }
+        ]
+    }
+]

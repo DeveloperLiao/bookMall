@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "text": "文艺",
+        "imgUrl": "/images/books/hot/weiyi.png"
+    },
+    {
+        "id": 2,
+        "text": "科技",
+        "imgUrl": "/images/books/hot/keji.png"
+    },
+    {
+        "id": 3,
+        "text": "励志",
+        "imgUrl": "/images/books/hot/lizhi.png"
+    },
+    {
+        "id": 4,
+        "text": "武侠",
+        "imgUrl": "/images/books/hot/wuxia.png"
+    },
+    {
+        "id": 5,
+        "text": "童书",
+        "imgUrl": "/images/books/hot/tongshu.png"
+    }
+]
